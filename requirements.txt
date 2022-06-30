@@ -1,0 +1,5 @@
+opencv-python
+matplotlib==3.3.4
+tensorflow-macos==2.9.1
+sklearn
+Keras
